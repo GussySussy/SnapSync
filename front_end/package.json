@@ -12,6 +12,7 @@
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "@reduxjs/toolkit": "^2.2.3",
     "@supabase/auth-helpers-nextjs": "^0.10.0",
     "@supabase/supabase-js": "^2.42.7",
     "@tailwindcss/forms": "^0.5.7",
@@ -21,12 +22,13 @@
     "next": "^14.2.3",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
+    "react-redux": "^9.1.1",
     "supabase": "^1.163.2",
     "tailwind-merge": "^2.3.0"
   },
   "devDependencies": {
     "@types/file-saver": "^2.0.7",
-    "@types/node": "^20",
+    "@types/node": "^20.12.7",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",

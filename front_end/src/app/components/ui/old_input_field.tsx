@@ -4,6 +4,7 @@ import Link from "next/link";
 import { supabase } from "@/app/utils/supabase/supabase";
 import { toast } from "react-hot-toast";
 
+
 export default function Old_Event_input() {
   const [eventName, setEventName] = useState("");
   const [eventKey, setEventKey] = useState("");
